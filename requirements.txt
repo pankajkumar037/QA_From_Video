@@ -1,0 +1,7 @@
+autogen-agentchat
+streamlit
+python-dotenv
+google-generativeai
+pyautogen
+ag2[gemini]
+faster-whisper
